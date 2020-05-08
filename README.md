@@ -10,13 +10,10 @@ https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html#l
 
 Note, you will have to login with your Oracle account to download.
 
-To find support for other Operating Systems, go to this link and scroll down to "Java SE Runtime Environment 8u111":
-https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
-
 Additionally, if you don't have an Oracle account and/or you are looking for Bundle of NetBeans with Java 1.8u111:
 https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html
 
 
 ## The raw source code is in the src directory
 
-## I have also included a NetBeans ready project folder called: NetBeans-BlackJack
+## I have also included a NetBeans project folder called: NetBeans-BlackJack
